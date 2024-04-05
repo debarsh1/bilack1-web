@@ -1,17 +1,17 @@
 [
   {
-    "title": "Contest #3 : Shein T-Shirt",
-    "description": "Winner Prize: Shein T-Shirt!\n Don't Worry Be Happy ",
+    "title": "Contest #3 : Free Shein T-Shirt",
+    "description": " Last Entry Date: 12th April 2024\n Result Date: 24th April 2024\n Winner will be announced here.",
     "imagePath": "assets/contest_images/contest3_image.jpg"
   },
   {
-    "title": "Contest #2 : JoyStick ",
+    "title": "Contest #2 : Free JoyStick ",
     "description": "Winner Prize: Joystick!",
     "imagePath": "assets/contest_images/contest2_image.jpg"
   },
   {
     "title": "Contest #1",
-    "description": "Winner Prize: Lipbalm!",
+    "description": "Winner Prize: Free Lipbalm!",
     "imagePath": "assets/contest_images/contest1_image.jpg"
   }
 ]
