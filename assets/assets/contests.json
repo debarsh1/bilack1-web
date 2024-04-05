@@ -1,14 +1,17 @@
 [
   {
-    "title": "Contest #1",
-    "description": "Win Free Shein Shirt for Free!"
+    "title": "Contest #3",
+    "description": "Winner Prize: Shein T-Shirt!",
+    "imagePath": "assets/contest_images/contest3_image.jpg"
   },
   {
     "title": "Contest #2",
-    "description": "Participate in our design contest and win amazing rewards!"
+    "description": "Winner Prize: Joystick!",
+    "imagePath": "assets/contest_images/contest2_image.jpg"
   },
   {
-    "title": "Contest #3",
-    "description": "Participate in our design contest and win amazing rewards!"
+    "title": "Contest #1",
+    "description": "Winner Prize: Lipbalm!",
+    "imagePath": "assets/contest_images/contest1_image.jpg"
   }
 ]
